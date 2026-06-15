@@ -2,3 +2,17 @@
     background-color: aqua;
     text-decoration-color: white;
 }
+
+img{
+    width: 350px;
+    height: 350px;
+}
+
+#php{
+    width: 250px;
+    height: 200px;
+}
+
+#rojo{
+    text-align: center;
+}
